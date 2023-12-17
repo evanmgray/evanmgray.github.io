@@ -18,7 +18,7 @@ params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: "Evan Gray"
   # This is shown when website is posted in Discord and other socials
-  description: "Project Guy @ Forma.ai, Curler @ Chicago Curling Club, Consumer of Decaf Coffee"
+  description: "Problem Solver @ Forma.ai, Curler @ Chicago Curling Club, Consumer of Decaf Coffee"
   keywords: [Evan Gray, Evan M Gray, Blog, Portfolio, UC, Cal, Berkeley, Haas, Software, Technology, CS, Haas School of Business]
   author: "Evan Gray"
   # author: ["Me", "You"] # multiple authors
