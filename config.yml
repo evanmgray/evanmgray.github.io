@@ -1,5 +1,5 @@
 baseURL: "https://evanmgray.com/"
-title: Personal Page of Evan Gray
+title: Evan Gray
 paginate: 5
 theme: PaperMod
 
@@ -8,7 +8,7 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
-googleAnalytics: 
+googleAnalytics: 1
 
 minify:
   disableXML: true
@@ -16,12 +16,13 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: ExampleSite
-  description: "ExampleSite description"
-  keywords: [Blog, Portfolio, PaperMod]
-  author: Me
+  title: "Evan Gray"
+  # This is shown when website is posted in Discord and other socials
+  description: "Project guy at Forma.ai, based on Chicago. Welcome to my website!"
+  keywords: [Evan Gray, Evan M Gray, Blog, Portfolio, UC, Cal, Berkeley, Haas, Software, Technology, CS, Haas School of Business]
+  author: "Evan Gray"
   # author: ["Me", "You"] # multiple authors
-  images: ["<link or path of image for opengraph, twitter-cards>"]
+  images: ["logo_v1.png"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
