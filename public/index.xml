@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Personal Page of Evan Gray</title>
+    <title>Evan Gray</title>
     <link>https://evanmgray.com/</link>
-    <description>Recent content on Personal Page of Evan Gray</description>
+    <description>Recent content on Evan Gray</description>
     <image>
-      <title>Personal Page of Evan Gray</title>
-      <url>https://evanmgray.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://evanmgray.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <title>Evan Gray</title>
+      <url>https://evanmgray.com/logo_v1.png</url>
+      <link>https://evanmgray.com/logo_v1.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
