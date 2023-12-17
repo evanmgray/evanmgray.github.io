@@ -80,12 +80,14 @@ params:
     Content: Welcome to my blog
 
   socialIcons:
-    - name: twitter
-      url: "https://twitter.com/"
-    - name: stackoverflow
-      url: "https://stackoverflow.com"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/evan-m-gray/"
+    - name: soundcloud
+      url: "https://soundcloud.com/evan-gray-music"
     - name: github
-      url: "https://github.com/"
+      url: "https://github.com/evanmgray"
+    - name: email
+      url: "mailto:evangraybookings@gmail.com"
 
   analytics:
     google:
