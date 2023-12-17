@@ -52,20 +52,22 @@ params:
     apple_touch_icon: "<link / abs url>"
     safari_pinned_tab: "<link / abs url>"
 
+# Logo and name shown on top left of site
   label:
-    text: "Home"
-    icon: /apple-touch-icon.png
+    text: "Evan Gray"
+    icon: /logo_v1.png
     iconHeight: 35
 
   # profile-mode
   profileMode:
-    enabled: false # needs to be explicitly set
-    title: ExampleSite
-    subtitle: "This is subtitle"
-    imageUrl: "<img location>"
-    imageWidth: 120
-    imageHeight: 120
-    imageTitle: my image
+    # needs to be explicitly set
+    enabled: true 
+    title: Evan Gray
+    subtitle: "Making things work @ Forma.ai, based on Chicago. Welcome to my website!"
+    imageUrl: "/me.jpg"
+    imageWidth: 150
+    imageHeight: 150
+    imageTitle: Picture of Me
     buttons:
       - name: Posts
         url: posts
