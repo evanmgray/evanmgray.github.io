@@ -54,7 +54,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 #    weight = 2
 #    identifier = "tags"
 #    pre = ""
-#    post = ""
+#    post = ""  
 #    name = "Tags"
 #    url = "/tags/"
 #    title = ""
@@ -216,10 +216,10 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 
   # Social config about the author
   [params.social]
-    Linkedin = "https://www.linkedin.com/in/evan-m-gray/"
-    GitHub = "https://github.com/evanmgray"
+    Linkedin = "evan-m-gray"
+    GitHub = "evanmgray"
     Twitter = ""
-    Instagram = "https://www.instagram.com/evn_gray/"
+    Instagram = "evn_gray"
     Facebook = ""
     Telegram = ""
     Medium = ""
@@ -242,9 +242,9 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     Flickr = ""
     Xing = ""
     Snapchat = ""
-    Soundcloud = "https://soundcloud.com/evan-gray-music"
+    Soundcloud = "evan-gray-music"
     Spotify = ""
-    Bandcamp = "https://bandcamp.com/evangray125"
+    Bandcamp = "rtxsessions"
     Paypal = ""
     Fivehundredpx = ""
     Mix = ""
