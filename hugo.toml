@@ -97,13 +97,13 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     # desktop header mode ["fixed", "normal", "auto"]
     desktopMode = "fixed"
     # mobile header mode ["fixed", "normal", "auto"]
-    mobileMode = "auto"
+    mobileMode = "fixed"
     #  Header title config
     [params.header.title]
       # URL of the LOGO
       logo = "/roger_favicon.png"
       # title name
-      name = "←Click on Roger to Go Home"
+      name = "Home"
       # you can add extra information before the name (HTML format is supported), such as icons
       pre = ""
       # you can add extra information after the name (HTML format is supported), such as icons
@@ -198,7 +198,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       #  title shown in home page (HTML format is supported)
       title = "Evan Gray"
       # subtitle shown in home page (HTML format is supported)
-      subtitle = "Welcome to my Personal Website"
+      subtitle = ", Curling, DJ"
       # whether to use typeit animation for subtitle
       typeit = true
       # whether to show social links
