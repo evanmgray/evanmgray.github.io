@@ -50,22 +50,22 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     url = "/posts/"
     # title will be shown when you hover on this menu link
     title = ""
-  [[menu.main]]
-    weight = 2
-    identifier = "tags"
-    pre = ""
-    post = ""
-    name = "Tags"
-    url = "/tags/"
-    title = ""
-  [[menu.main]]
-    weight = 3
-    identifier = "categories"
-    pre = ""
-    post = ""
-    name = "Categories"
-    url = "/categories/"
-    title = ""
+#  [[menu.main]]
+#    weight = 2
+#    identifier = "tags"
+#    pre = ""
+#    post = ""
+#    name = "Tags"
+#    url = "/tags/"
+#    title = ""
+#  [[menu.main]]
+#    weight = 3
+#    identifier = "categories"
+#    pre = ""
+#    post = ""
+#    name = "Categories"
+#    url = "/categories/"
+#    title = ""
   [[menu.main]]
     weight = 4
     identifier = "about"
@@ -198,7 +198,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       #  title shown in home page (HTML format is supported)
       title = "Evan Gray"
       # subtitle shown in home page (HTML format is supported)
-      subtitle = "Software, Curling, House Music"
+      subtitle = "Thoughts on software, management, and other stuff"
       # whether to use typeit animation for subtitle
       typeit = true
       # whether to show social links
@@ -216,8 +216,8 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 
   # Social config about the author
   [params.social]
-    GitHub = "https://github.com/evanmgray"
     Linkedin = "https://www.linkedin.com/in/evan-m-gray/"
+    GitHub = "https://github.com/evanmgray"
     Twitter = ""
     Instagram = "https://www.instagram.com/evn_gray/"
     Facebook = ""

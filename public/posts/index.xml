@@ -4,13 +4,15 @@
         <link>https://evanmgray.com/posts/</link>
         <description>All Posts | Evan Gray</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>evanmgray94@gmail.com (Evan Gray)</managingEditor>
-            <webMaster>evanmgray94@gmail.com (Evan Gray)</webMaster><lastBuildDate>Tue, 19 Dec 2023 20:25:10 -0600</lastBuildDate><atom:link href="https://evanmgray.com/posts/" rel="self" type="application/rss+xml" /><item>
-    <title>First_post</title>
+            <webMaster>evanmgray94@gmail.com (Evan Gray)</webMaster><lastBuildDate>Tue, 19 Dec 2023 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://evanmgray.com/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Background / First Post</title>
     <link>https://evanmgray.com/first_post/</link>
-    <pubDate>Tue, 19 Dec 2023 20:25:10 -0600</pubDate>
+    <pubDate>Tue, 19 Dec 2023 00:00:00 &#43;0000</pubDate>
     <author>Evan Gray</author>
     <guid>https://evanmgray.com/first_post/</guid>
-    <description><![CDATA[]]></description>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/posts/couch_background.png" referrerpolicy="no-referrer">
+            </div><p>Thanks for visiting and poking around to read :)</p>]]></description>
 </item>
 </channel>
 </rss>
