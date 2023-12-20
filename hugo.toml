@@ -1,4 +1,5 @@
-baseURL = "http://localhost:1313"
+# baseURL = "http://localhost:1313"
+baseURL = "https://evanmgray.com"
 
 # Change the default theme to be use when building the site with Hugo
 theme = "LoveIt"

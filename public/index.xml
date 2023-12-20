@@ -1,17 +1,17 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>My New Hugo Site</title>
-        <link>http://localhost:1313/</link>
+        <link>https://evanmgray.com/</link>
         <description>My personal website</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>evanmgray94@gmail.com (Evan Gray)</managingEditor>
             <webMaster>evanmgray94@gmail.com (Evan Gray)</webMaster><lastBuildDate>Tue, 19 Dec 2023 20:25:10 -0600</lastBuildDate>
-            <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+            <atom:link href="https://evanmgray.com/index.xml" rel="self" type="application/rss+xml" />
         <item>
     <title>First_post</title>
-    <link>http://localhost:1313/first_post/</link>
+    <link>https://evanmgray.com/first_post/</link>
     <pubDate>Tue, 19 Dec 2023 20:25:10 -0600</pubDate>
     <author>Evan Gray</author>
-    <guid>http://localhost:1313/first_post/</guid>
+    <guid>https://evanmgray.com/first_post/</guid>
     <description><![CDATA[]]></description>
 </item>
 </channel>
