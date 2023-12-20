@@ -5,7 +5,7 @@ baseURL = "https://evanmgray.com"
 theme = "LoveIt"
 
 # website title
-title = "My New Hugo Site"
+title = "Evan Gray"
 
 # language code ["en", "zh-CN", "fr", "pl", ...]
 languageCode = "en"
