@@ -9,11 +9,11 @@ Thoughts and reflections of a major life decision.
 
 ## 1. Introduction
 
-Next year, me, my partner, and two cats will leave our long-time home of Chicago. I'll be leaving my fully remote job as a project manager at an enterprise software startup, where I am appreciated and well-compensated, in order to enroll in Berkely Haas's full-time MBA program.
+Next year, me, my partner, and two cats will leave our long-time home of Chicago. I'll be leaving my fully remote job as a project manager at an enterprise software startup, where I am appreciated and well-compensated, in order to enroll in a full-time MBA program.
 
 My whole seven-year career has been in software. By opting to sacrifice two years of earning for a piece of paper with no intrinsic value, direct exposure to technology, or guarantee of employment in my current field (all while in a tech industry downtown) I'm taking on, to put it lightly, some risk.<sup>1</sup>
 
-However, I believe the risks are justified by the opportunities two years at Haas will provide <sup>2</sup>:
+However, I believe the risks are justified by the opportunities two years in business school will provide <sup>2</sup>:
 - **Chances to do great work** on a variety of problems with a variety of amazing people
 - **Guidance and practice reps** to develop my "personal brand" and networking skills, enabling me to find and make connections with people who enjoy working on similar problems
 - **An accelerated introduction** to a new area of the country with proximity to family, amazing nature, and great long-term career prospects
@@ -37,8 +37,8 @@ Finding a larger "pond" is conventional wisdom, but not an unalloyed good. The t
 - This “academic self-concept" is correlated with motivation and academic performance.
 
 Put directly, there's a chance that I might find myself overwhelmed by the caliber of my classmates and lose motivation to grow my career. **Personally, my approaches to both the application process, and career progression in general, mitigate this risk.** 
-- **I was very selective in my MBA applications.** Haas was the "best" school I got into, but I didn't apply very widely or chase MBA prestige. By the numbers, I'll be an above average student and my background in software and consulting is likely to help me fit into the culture well.
-- **I've already made many jumps to bigger "ponds"**. I've a very risk averse person and, like many, have dealt with imposter syndrome throughout my career. In changing jobs, I've favored incremental jumps to slightly larger "ponds" rather than reaching for the most prestige. With each jump I've had to manage anxieties that I'll be inferior, and keep an intense focus on being humble and learn from those around me. But with each jump I've found a way to succeed. Going to Haas, and the bay area, represents a larger but still incremental jump that I believe I can handle, if not thrive by.
+- **I was very selective in my MBA applications.** I didn't apply very widely or chase MBA prestige. By the numbers, regardless of where I go, I'll be an above average student and my background in software and consulting is likely to help me fit into the culture well.
+- **I've already made many jumps to bigger "ponds"**. I've a very risk averse person and, like many, have dealt with imposter syndrome throughout my career. In changing jobs, I've favored incremental jumps to slightly larger "ponds" rather than reaching for the most prestige. With each jump I've had to manage anxieties that I'll be inferior, and keep an intense focus on being humble and learn from those around me. But with each jump I've found a way to succeed. Going to business school represents a larger but still incremental jump that I believe I can handle, if not thrive by.
 
 The bigger "pond" also comes with a major upside. 
 
