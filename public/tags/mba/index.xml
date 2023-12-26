@@ -1,0 +1,19 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>MBA - Tag - Evan Gray</title>
+        <link>https://evanmgray.com/tags/mba/</link>
+        <description>MBA - Tag - Evan Gray</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>evanmgray94@gmail.com (Evan Gray)</managingEditor>
+            <webMaster>evanmgray94@gmail.com (Evan Gray)</webMaster><lastBuildDate>Mon, 25 Dec 2023 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://evanmgray.com/tags/mba/" rel="self" type="application/rss+xml" /><item>
+    <title>Why Business School?</title>
+    <link>https://evanmgray.com/why_mba/</link>
+    <pubDate>Mon, 25 Dec 2023 00:00:00 &#43;0000</pubDate>
+    <author>Evan Gray</author>
+    <guid>https://evanmgray.com/why_mba/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/posts/why_mba_pond.png" referrerpolicy="no-referrer">
+            </div><p>Why would I uproot my life to leave a well-paying, fully remote tech job, losing two years of earnings and experience in the process?</p>
+<p>Thoughts and reflections of a major life decision.</p>]]></description>
+</item>
+</channel>
+</rss>
