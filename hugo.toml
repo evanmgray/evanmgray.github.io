@@ -219,7 +219,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     Linkedin = "evan-m-gray"
     GitHub = "evanmgray"
     Twitter = ""
-    Instagram = "evn_gray"
+    Instagram = ""
     Facebook = ""
     Telegram = ""
     Medium = ""
@@ -244,7 +244,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     Snapchat = ""
     Soundcloud = "evan-gray-music"
     Spotify = ""
-    Bandcamp = "rtxsessions"
+    Bandcamp = ""
     Paypal = ""
     Fivehundredpx = ""
     Mix = ""
@@ -289,7 +289,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     HackTheBox = ""
     RootMe= ""
     Phone = ""
-    Email = "evanmgray94@gmail.com"
+    Email = "evan_gray@berkeley.edu"
     RSS = true # 
 
   #  Page global config
