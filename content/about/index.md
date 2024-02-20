@@ -5,25 +5,27 @@ _build:
   list: never
 ---
 
-Hi There! I'm **Evan Gray**, a business technologist who believes people should find their work meaningful because of the software they use, not in spite of it. I'm a problem solver that's led high-profile projects to build and scale software to new industries and users.
+Hi There! I'm **Evan Gray**, a business technologist who (perhaps naively) believes people should find their work meaningful because of the software they use, not in spite of it. I love solving new problems, and I've spent my career leading teams to build and [successfully implement](https://medium.com/dhiwise/why-do-70-of-projects-fail-in-it-6f1991637835) multi-million dollar software systems for tens of thousands of users across the healthcare, travel, hospitality, logistics, medical device, and financial services industries.
 
 [Resume](/Evan_Gray_Resume.pdf) | [LinkedIn](https://www.linkedin.com/in/evan-m-gray/) | [Email](evan_gray@berkeley.edu)
 
-### Expertise and Interests
-- B2B SaaS Sales/GTM, Implementation, and Product
-- Project Management and Problem Solving
-- Team Building and Finding Fulfilling Work
+### Work
+- Current Senior Implementation Manager @ [Forma.ai](https://forma.ai)
+- Former Technology Consultant @ [ZS Associates](https://zs.com/)
+- Former Database Administrator and Team Lead @ [Epic Systems](https://www.epic.com/)
+- Former Enterprise Optimization Intern @ [United Airlines](https://www.youtube.com/watch?v=ie-TS-BitnQ)
 
-### Career Path
-- Senior Implementation Manager @ Forma.ai (Toronto, Canada)
-- Former Technology Consultant @ ZS Associates (Chicago, IL)
-- Former Database Administrator and Team Lead @ Epic Systems (Verona, WI)
+### Sklls and Expertise
+- B2B SaaS Implementation, Sales/GTM, and Product
+- Managing New and Complex Projects
+- Data Infrastructure and [Models](https://www.forma.ai/blog/automating-formula-building-using-a-centralized-data-model/)
+- Building Teams and Mentoring
 
 ### Education
 - Incoming MBA Student @ UC Berkeley Haas '26
 - BS, Industrial Engineering and Applied Math @ Northwestern University '16
 
-### Affiliations
+### Interests
 - Rookies League Co-Chair @ Chicago Curling Club
 - Occasional House DJ and Producer @ [Light Roast Disco](https://LightRoastDisco.com)
 - Proud Cat Parent of Roger and Mochi *(not the orange cat below, but he was chill)*
