@@ -11,7 +11,7 @@ Hi There! I'm **Evan Gray**, a business technologist who (perhaps naively) belie
 - Former Database Administrator and Team Lead @ [Epic Systems](https://www.epic.com/)
 - Former Enterprise Optimization Intern @ [United Airlines](https://www.youtube.com/watch?v=ie-TS-BitnQ)
 
-### Sklls and Expertise
+### Skills and Expertise
 - B2B SaaS Implementation, Sales/GTM, and Product
 - Managing New and Complex Projects
 - Data Infrastructure and [Models](https://www.forma.ai/blog/automating-formula-building-using-a-centralized-data-model/)
