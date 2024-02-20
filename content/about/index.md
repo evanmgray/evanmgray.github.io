@@ -5,7 +5,7 @@ _build:
   list: never
 ---
 
-Hi There! I'm **Evan Gray**, a business technologist who (perhaps naively) believes people should find their work meaningful because of the software they use, not in spite of it. I love solving new problems, and I've spent my career leading teams to build and [successfully implement](https://medium.com/dhiwise/why-do-70-of-projects-fail-in-it-6f1991637835) multi-million dollar software systems for tens of thousands of users across the healthcare, travel, hospitality, logistics, medical device, and financial services industries.
+Hi There! I'm **Evan Gray**, a business technologist who (perhaps naively) believes people should find their work meaningful because of the software they use, not in spite of it. I love solving new problems, and I've spent my career leading teams to build and successfully implement multi-million dollar software systems for thousands of users across industries.
 
 [Resume](/Evan_Gray_Resume.pdf) | [LinkedIn](https://www.linkedin.com/in/evan-m-gray/) | [Email](mailto:evan_gray@berkeley.edu)
 
