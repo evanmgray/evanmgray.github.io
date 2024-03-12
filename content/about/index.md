@@ -18,6 +18,8 @@ Hi There! I'm **Evan Gray**, a business technologist who (perhaps naively) belie
 
 ### Blogs I Like
 - [Benn Stancil](https://benn.substack.com/) has great perspectives on growing B2B companies and the current state of analytics software.
+- [David Chapman](https://substack.com/@meaningness) explores the idea of meta-rationality, a critical mindset to solving unstructured problems 
+- [Venkatesh Rao](https://www.ribbonfarm.com/) for creative models to understand organizations and the world
 - [Lenny Rachitsky](https://www.lennysnewsletter.com/) brings amazing perspectives of industry leaders through his newsletter and podcast.
 - [Paul Graham](https://paulgraham.com/articles.html) helps me be introspective and think about my own path.
 
