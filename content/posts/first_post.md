@@ -10,7 +10,7 @@ description: ""
 license: ""
 images: []
 
-tags: []
+tags: [Personal]
 categories: []
 
 featuredImage: "/posts/couch_background.png"

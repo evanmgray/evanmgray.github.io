@@ -48,7 +48,7 @@ My big bet (for the investment into an MBA) is that I'll find more of these mome
 
 
 ## 3. Footnotes and Further Reading 
-1. My personal savings from living frugally and avoiding lifestyle creep over 4 years in consulting helped me avoid loans. Not everyone has this luxury.
+1. Avoiding lifestyle creep while working in consulting helps reduce this risk.
 
 2. This is applicable to so-called "top" programs that, due to their prestige and reputation, attract individuals from diverse backgrounds and have opportunities to connect you with individuals in a large variety of roles and industries.
 
