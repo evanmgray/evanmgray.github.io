@@ -8,7 +8,7 @@ author: "Evan Gray"
 authorLink: ""
 description: ""
 license: ""
-images: []
+images: ["/posts/5personas.png"]
 
 tags: [Satire]
 categories: []
