@@ -1,16 +1,19 @@
 # About Me
 
 
-Hi There! I'm **Evan Gray**, a business technologist who (perhaps naively) believes people should find their work fulfilling because of the software they use, not in spite of it. I love solving new problems, and I've spent my career leading teams to build and successfully implement software systems for thousands of users across industries.
+Hi There! I'm **Evan Gray**, a business technologist who (perhaps naively) believes people should find their work fulfilling because of the software they use, not in spite of it. 
 
 [Resume](/Evan_Gray_Resume.pdf) | [LinkedIn](https://www.linkedin.com/in/evan-m-gray/) | [Email](mailto:evan_gray@berkeley.edu)
 
 ### What I Do
 - Incoming MBA Student @ UC Berkeley Haas School of Business
 - Implementation Manager @ Forma.ai
-- Solid Lead @ Chicago Curling Club
+-  Lead @ Chicago Curling Club
 - Occasional House DJ and Producer @ [Light Roast Disco](https://LightRoastDisco.com)
-- Cat Parent of Roger and Mochi *(not the orange cat below, but he was chill)*
+
+### Professional Writing
+ - [Automating Formula Building Using a Centralized Data Model](https://www.forma.ai/resources/article/automating-formula-building-using-a-centralized-data-model)
+ - [From Chaos to Clarity: How to Fix Your Broken SPM Data](https://www.forma.ai/resources/article/how-to-fix-your-broken-spm-data)
 
 ### Blogs I Like
 - [Benn Stancil](https://benn.substack.com/) has great perspectives on growing B2B companies and the current state of analytics software.
@@ -21,6 +24,5 @@ Hi There! I'm **Evan Gray**, a business technologist who (perhaps naively) belie
 
 
 
-![I do not know this cat](/posts/me_and_orange_cat.png)
 
 
