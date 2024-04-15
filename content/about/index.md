@@ -7,7 +7,7 @@ _build:
 
 Hi There! I'm **Evan Gray**, a business technologist who (perhaps naively) believes people should find their work fulfilling because of the software they use, not in spite of it. 
 
-[Resume](/Evan_Gray_Resume.pdf) | [LinkedIn](https://www.linkedin.com/in/evan-m-gray/) | [Email](mailto:evan_gray@berkeley.edu)
+[LinkedIn](https://www.linkedin.com/in/evan-m-gray/) | [Email](mailto:evan_gray@berkeley.edu)
 
 ### What I Do
 - Incoming MBA Student @ UC Berkeley Haas School of Business
