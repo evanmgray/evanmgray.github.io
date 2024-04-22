@@ -3,12 +3,12 @@
 
 Hi There! I'm **Evan Gray**, a business technologist who (perhaps naively) believes people should find their work fulfilling because of the software they use, not in spite of it. 
 
-[LinkedIn](https://www.linkedin.com/in/evan-m-gray/) | [Email](mailto:evan_gray@berkeley.edu)
+[LinkedIn](https://www.linkedin.com/in/evan-m-gray/) | [Substack](https://evanmgray.substack.com/) | [Email](mailto:evan_gray@berkeley.edu)
 
 ### What I Do
 - Incoming MBA Student @ UC Berkeley Haas School of Business
-- Implementation Manager @ Forma.ai
--  Lead @ Chicago Curling Club
+- Former Project Manager, Consultant, and Systems Administrator
+- Decent Lead @ Chicago Curling Club
 - Occasional House DJ and Producer @ [Light Roast Disco](https://LightRoastDisco.com)
 
 ### Professional Writing
