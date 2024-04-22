@@ -59,4 +59,4 @@ seo:
   # ...
 ---
 
-[Read on SubStack](https://evanmgray.substack.com/p/five-essential-personas-for-growing)
+[Read on Substack](https://evanmgray.substack.com/p/five-essential-personas-for-growing)
