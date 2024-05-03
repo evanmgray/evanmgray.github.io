@@ -72,7 +72,7 @@ However, in the enterprise software context, I'd argue we should use this defini
 
 > **Management** - the activities and responsibilities involved in conducting a business process or project
 
-It's utility and fraught nature come from it's nebulous use. By tacking on the word to the end of any business concept, you've created an entire category of software to potentially sell:
+Its utility and fraught nature come from its nebulous use. By tacking on the word to the end of any business concept, you've created an entire category of software to potentially sell:
 - [Customer Relationship Management](https://www.salesforce.com/crm/what-is-crm/)
 - [Enterprise Service Management](https://www.atlassian.com/forrester/wave-enterprise-service-management)
 - [Content Management](https://www.forrester.com/blogs/announcing-the-cms-wave-q3-2023/)
