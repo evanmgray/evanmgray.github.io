@@ -6,9 +6,9 @@ Hi There! I'm **Evan Gray**, a business technologist who (perhaps naively) belie
 [LinkedIn](https://www.linkedin.com/in/evan-m-gray/) | [Substack](https://evanmgray.substack.com/) | [Email](mailto:evan_gray@berkeley.edu)
 
 ### What I Do
-- Incoming MBA Student @ UC Berkeley Haas School of Business
+- MBA Student @ UC Berkeley Haas School of Business
 - Former Project Manager, Consultant, and Systems Administrator
-- Decent Lead @ Chicago Curling Club
+- Rocke Thrower @ San Francisco Bay Area Curling Club
 - Occasional House DJ and Producer @ [Light Roast Disco](https://LightRoastDisco.com)
 
 ### Professional Writing
