@@ -11,7 +11,7 @@ Hi There! I'm **Evan Gray**, a business technologist who (perhaps naively) belie
 
 ### What I Do
 - MBA Student @ UC Berkeley Haas School of Business
-- Former Project Manager, Consultant, and Systems Administrator
+- Former Project Manager, Consultant, and Sysadmin
 - Granite Rock Thrower @ San Francisco Bay Area Curling Club
 - Occasional House DJ and Producer @ [Light Roast Disco](https://LightRoastDisco.com)
 
