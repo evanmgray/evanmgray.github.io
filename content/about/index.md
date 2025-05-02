@@ -5,7 +5,7 @@ _build:
   list: never
 ---
 
-Hi There! I'm **Evan Gray**, a business technologist who (perhaps naively) believes people should find their work fulfilling because of the software they use, not in spite of it. 
+Hi There! I'm **Evan Gray**. I believe should find their work fulfilling because of the software they use, not in spite of it. 
 
 [LinkedIn](https://www.linkedin.com/in/evan-m-gray/) | [Substack](https://evanmgray.substack.com/) | [Email](mailto:evan_gray@berkeley.edu)
 
@@ -15,7 +15,7 @@ Hi There! I'm **Evan Gray**, a business technologist who (perhaps naively) belie
 - Granite Rock Thrower @ San Francisco Bay Area Curling Club
 - Occasional House DJ and Producer @ [Light Roast Disco](https://LightRoastDisco.com)
 
-### Professional Writing
+### Old Professional Writing
  - [Automating Formula Building Using a Centralized Data Model](https://www.forma.ai/resources/article/automating-formula-building-using-a-centralized-data-model)
  - [From Chaos to Clarity: How to Fix Your Broken SPM Data](https://www.forma.ai/resources/article/how-to-fix-your-broken-spm-data)
 
