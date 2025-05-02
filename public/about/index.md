@@ -17,7 +17,7 @@ Hi There! I'm **Evan Gray**. I believe should find their work fulfilling because
 
 ### Blogs I Like
 - [Benn Stancil](https://benn.substack.com/) is great for startups and data
-- [Nikhil](https://ludic.blog) is hilarious, cutting, and accurate
+- [Nikhil Suresh](https://ludic.blog) is hilarious, cutting, and accurate
 - [David Chapman](https://substack.com/@meaningness) puts into words what I think about work
 - [Venkatesh Rao](https://www.ribbonfarm.com/) is imaginative and cynical
 - [Paul Graham](https://paulgraham.com/articles.html) is timeless
