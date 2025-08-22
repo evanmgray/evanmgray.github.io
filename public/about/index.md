@@ -1,14 +1,15 @@
 # About Me
 
 
-Hi There! I'm **Evan Gray**. I believe should find their work fulfilling because of the software they use, not in spite of it. 
+Hi There! I'm **Evan Gray**. I believe should find their work fulfilling because of the technology they use, not in spite of it. 
 
 [LinkedIn](https://www.linkedin.com/in/evan-m-gray/) | [Substack](https://evanmgray.substack.com/) | [Email](mailto:evan_gray@berkeley.edu)
 
 ### What I Do
+- 0-1 Product @ Dolby Laboratories
 - MBA Student @ UC Berkeley Haas School of Business
 - Former Project Manager, Consultant, and Sysadmin
-- Granite Rock Thrower @ San Francisco Bay Area Curling Club
+- Granite Rock Thrower @ San Francisco Bay Area Curling Club (formerly Chicago Curling Club)
 - Occasional House DJ and Producer @ [Light Roast Disco](https://LightRoastDisco.com)
 
 ### Old Professional Writing
