@@ -11,8 +11,8 @@ Hi There! I'm **Evan Gray**. I believe should find their work fulfilling because
 
 ### What I Do
 
-- Current Data/ML Ops Manager @ Snorkel AI
-- I've done data and tech work for United Airlines, Epic Systems, Dolby Laboratories, and many startups
+- Technical PrM and Pre-Sales @ Snorkel AI
+- Past lives @ United Airlines, Epic Systems, ZS Associates, Dolby Laboratories, and many startups
 - MBA Student @ UC Berkeley Haas School of Business
 - Granite Rock Thrower @ San Francisco Bay Area Curling Club
 - Occasional House DJ and Producer @ [Light Roast Disco](https://LightRoastDisco.com) and [5 Percent Boys](https://www.instagram.com/fivepercentboys/)
