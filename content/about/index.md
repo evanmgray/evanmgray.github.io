@@ -12,8 +12,7 @@ Hi There! I'm **Evan Gray**. I believe people should find their work fulfilling 
 ### What I Do
 
 - Deployments @ Tailwind
-- Past lives @ United Airlines, Epic Systems, ZS Associates, Dolby Laboratories, Burn-and-Churn AI Data Shop
-- MBA Student @ UC Berkeley Haas School of Business
+- Past lives @ United Airlines, Epic Systems, ZS Associates, Dolby Laboratories, UC Berkeley Haas MBA, Burn-and-Churn AI Data Shop
 - Granite Rock Thrower @ San Francisco Bay Area Curling Club
 - Occasional House DJ and Producer @ [Light Roast Disco](https://LightRoastDisco.com) and [5 Percent Boys](https://www.instagram.com/fivepercentboys/)
 
