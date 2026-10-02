@@ -1,14 +1,14 @@
 # About Me
 
 
-Hi There! I'm **Evan Gray**. I believe should find their work fulfilling because of the technology they use, not in spite of it.
+Hi There! I'm **Evan Gray**. I believe people should find their work fulfilling because of the technology they use, not in spite of it.
 
 [LinkedIn](https://www.linkedin.com/in/evan-m-gray/) | [Substack](https://evanmgray.substack.com/) | [Email](mailto:evan_gray@berkeley.edu)
 
 ### What I Do
 
-- Technical PrM and Pre-Sales @ Snorkel AI
-- Past lives @ United Airlines, Epic Systems, ZS Associates, Dolby Laboratories, and many startups
+- Deployments @ Tailwind
+- Past lives @ United Airlines, Epic Systems, ZS Associates, Dolby Laboratories, Burn-and-Churn AI Data Shop
 - MBA Student @ UC Berkeley Haas School of Business
 - Granite Rock Thrower @ San Francisco Bay Area Curling Club
 - Occasional House DJ and Producer @ [Light Roast Disco](https://LightRoastDisco.com) and [5 Percent Boys](https://www.instagram.com/fivepercentboys/)
